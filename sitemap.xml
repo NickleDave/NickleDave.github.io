@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://nicholdav.info//datasets/2016-07-30-scipy-proceedings</loc>
+<lastmod>2016-07-30T00:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>https://nicholdav.info//datasets/2017-11-07-cerebellothalamic-thalamostriatal-songbird</loc>
+<lastmod>2017-07-11T00:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>https://nicholdav.info//datasets/2017-10-18-bengalese-finch-song-repository</loc>
+<lastmod>2017-10-18T00:00:00-04:00</lastmod>
+</url>
+<url>
 <loc>https://nicholdav.info//publication/2009-10-01-paper-title-number-1</loc>
 <lastmod>2009-10-01T00:00:00-04:00</lastmod>
 </url>
@@ -18,6 +30,9 @@
 </url>
 <url>
 <loc>https://nicholdav.info//</loc>
+</url>
+<url>
+<loc>https://nicholdav.info//datasets/</loc>
 </url>
 <url>
 <loc>https://nicholdav.info//publications/</loc>
